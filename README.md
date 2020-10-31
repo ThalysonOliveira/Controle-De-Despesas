@@ -23,4 +23,5 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 <a id="sobre"></a>
 ## :bookmark: Sobre
 
-Sistema de controle de dispesas para auxiliar nos gastos do dia a dia
+Sistema de controle de dispesas para auxiliar nos gastos do dia a dia.
+Todas as informações ficam armazenadas no localStorage, persistindo assim os dados na tela mesmo recarregando a pagina.
