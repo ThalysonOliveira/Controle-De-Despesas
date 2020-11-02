@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img alt="Controle-Financeiro" src="https://i.imgur.com/O73zRuq.png" width="35%">
-  <img alt="Controle-Financeiro" src="https://i.imgur.com/XRQIQ4R.png" width="35%">
+  <img alt="Controle-Financeiro" src="https://i.imgur.com/rywdLVs.png" width="35%">
+  <img alt="Controle-Financeiro" src="https://i.imgur.com/ihEeya9.png" width="35%">
   
 </p>
 
